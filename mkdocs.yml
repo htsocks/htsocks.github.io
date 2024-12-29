@@ -1,3 +1,5 @@
 site_name: htsocks.github.io
+site_dir: docs
+docs_dir: src
 theme:
   name: terminal
